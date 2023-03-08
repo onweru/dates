@@ -1,0 +1,57 @@
+[
+  {
+    "label": "Company",
+    "url": "#company",
+    "icon": "home-icon.svg"
+  },
+  {
+    "label": "Departments",
+    "url": "#departments",
+    "icon": "briefcase-icon.svg"
+  },
+  {
+    "label": "Allowances",
+    "url": "#allowances",
+    "icon": "user-check-icon.svg"
+  },
+  {
+    "label": "Leave Types",
+    "url": "#leave-types",
+    "icon": "feather-icon.svg"
+  },
+  {
+    "label": "Holidays",
+    "url": "#holidays",
+    "icon": "umbrella-icon.svg"
+  },
+  {
+    "label": "Employees",
+    "url": "#employees",
+    "icon": "users-icon.svg"
+  },
+  {
+    "label": "Calendar",
+    "url": "#calendar",
+    "icon": "calendar-icon.svg"
+  },
+  {
+    "label": "Limits",
+    "url": "#limits",
+    "icon": "clock-icon.svg"
+  },
+  {
+    "label": "Bulk Import",
+    "url": "#bulk-import",
+    "icon": "upload-icon.svg"
+  },
+  {
+    "label": "Integrations",
+    "url": "#integrations",
+    "icon": "briefcase-icon.svg"
+  },
+  {
+    "label": "Billing",
+    "url": "#billing",
+    "icon": "credit-card-icon.svg"
+  }
+]

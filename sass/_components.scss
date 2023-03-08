@@ -1,0 +1,27 @@
+.hidden {
+  display: none;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.icon {
+  --size: 1rem;
+  height: var(--size);
+  width: var(--size);
+}
+
+.sidebar {
+  background-color: var(--grey-color-1);
+  width: 15rem;
+  padding: 1rem;
+  min-height: calc(100vh - 3rem);
+  &_link {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    text-decoration: none;
+    color: inherit;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+  }
+}
